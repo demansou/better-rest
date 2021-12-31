@@ -1,0 +1,19 @@
+//
+//  ViewController.swift
+//  better-rest
+//
+//  Created by Daniel Mansour on 12/30/21.
+//
+
+import UIKit
+
+class ViewController: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        // Do any additional setup after loading the view.
+    }
+
+
+}
+
